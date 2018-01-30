@@ -1,4 +1,4 @@
-<h1>Using Spring Oauth2 with JWT tokens to secure REST</h1>
+<h1>Using Spring Oauth2 with JWT tokens to secure REST Api</h1>
 This project is part of a tutorial about Oauth2 authentication on Spring.
 You can read the material <a href="http://wp.me/p7gH7l-4U">here</a>.
 
